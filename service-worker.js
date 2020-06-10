@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frendbook/precache-manifest.54d523fa0819da6be05e1a39c6789266.js"
+  "/frendbook/precache-manifest.cd66e225349c7b955597cb4c727509e3.js"
 );
 
 self.addEventListener('message', (event) => {
