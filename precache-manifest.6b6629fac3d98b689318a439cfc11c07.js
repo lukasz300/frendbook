@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "955d12fed1935cd8f1cd2f436cc83986",
+    "revision": "bd0e6783ded42833977bc112c5960b23",
     "url": "/frendbook/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frendbook/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "0e800d7f0a3cd8380c66",
+    "revision": "959220c51852da1e7f96",
     "url": "/frendbook/static/css/main.f12ccbe7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frendbook/static/js/2.71cfac2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e800d7f0a3cd8380c66",
-    "url": "/frendbook/static/js/main.5c1abdd9.chunk.js"
+    "revision": "959220c51852da1e7f96",
+    "url": "/frendbook/static/js/main.e457173e.chunk.js"
   },
   {
     "revision": "92f80f6a5c3631604346",

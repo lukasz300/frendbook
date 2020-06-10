@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frendbook/static/css/main.f12ccbe7.chunk.css",
-    "main.js": "/frendbook/static/js/main.5c1abdd9.chunk.js",
-    "main.js.map": "/frendbook/static/js/main.5c1abdd9.chunk.js.map",
+    "main.js": "/frendbook/static/js/main.e457173e.chunk.js",
+    "main.js.map": "/frendbook/static/js/main.e457173e.chunk.js.map",
     "runtime-main.js": "/frendbook/static/js/runtime-main.dff5dc1a.js",
     "runtime-main.js.map": "/frendbook/static/js/runtime-main.dff5dc1a.js.map",
     "static/css/2.3c03f26f.chunk.css": "/frendbook/static/css/2.3c03f26f.chunk.css",
     "static/js/2.71cfac2e.chunk.js": "/frendbook/static/js/2.71cfac2e.chunk.js",
     "static/js/2.71cfac2e.chunk.js.map": "/frendbook/static/js/2.71cfac2e.chunk.js.map",
     "index.html": "/frendbook/index.html",
-    "precache-manifest.cd66e225349c7b955597cb4c727509e3.js": "/frendbook/precache-manifest.cd66e225349c7b955597cb4c727509e3.js",
+    "precache-manifest.6b6629fac3d98b689318a439cfc11c07.js": "/frendbook/precache-manifest.6b6629fac3d98b689318a439cfc11c07.js",
     "service-worker.js": "/frendbook/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/frendbook/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.f12ccbe7.chunk.css.map": "/frendbook/static/css/main.f12ccbe7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.71cfac2e.chunk.js",
     "static/css/main.f12ccbe7.chunk.css",
-    "static/js/main.5c1abdd9.chunk.js"
+    "static/js/main.e457173e.chunk.js"
   ]
 }
