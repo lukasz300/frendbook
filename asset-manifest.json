@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/lukasz300/frendbook.io/static/css/main.ab39b8a5.chunk.css",
-    "main.js": "/lukasz300/frendbook.io/static/js/main.740107f8.chunk.js",
-    "main.js.map": "/lukasz300/frendbook.io/static/js/main.740107f8.chunk.js.map",
-    "runtime-main.js": "/lukasz300/frendbook.io/static/js/runtime-main.3077aabf.js",
-    "runtime-main.js.map": "/lukasz300/frendbook.io/static/js/runtime-main.3077aabf.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/lukasz300/frendbook.io/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.71cfac2e.chunk.js": "/lukasz300/frendbook.io/static/js/2.71cfac2e.chunk.js",
-    "static/js/2.71cfac2e.chunk.js.map": "/lukasz300/frendbook.io/static/js/2.71cfac2e.chunk.js.map",
-    "index.html": "/lukasz300/frendbook.io/index.html",
-    "precache-manifest.7e405df759a62261b6abff29e05c6d26.js": "/lukasz300/frendbook.io/precache-manifest.7e405df759a62261b6abff29e05c6d26.js",
-    "service-worker.js": "/lukasz300/frendbook.io/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/lukasz300/frendbook.io/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.ab39b8a5.chunk.css.map": "/lukasz300/frendbook.io/static/css/main.ab39b8a5.chunk.css.map",
-    "static/js/2.71cfac2e.chunk.js.LICENSE.txt": "/lukasz300/frendbook.io/static/js/2.71cfac2e.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/lukasz300/frendbook.io/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/lukasz300/frendbook/static/css/main.2ea8c94a.chunk.css",
+    "main.js": "/lukasz300/frendbook/static/js/main.ba45808d.chunk.js",
+    "main.js.map": "/lukasz300/frendbook/static/js/main.ba45808d.chunk.js.map",
+    "runtime-main.js": "/lukasz300/frendbook/static/js/runtime-main.01013fd3.js",
+    "runtime-main.js.map": "/lukasz300/frendbook/static/js/runtime-main.01013fd3.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/lukasz300/frendbook/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.71cfac2e.chunk.js": "/lukasz300/frendbook/static/js/2.71cfac2e.chunk.js",
+    "static/js/2.71cfac2e.chunk.js.map": "/lukasz300/frendbook/static/js/2.71cfac2e.chunk.js.map",
+    "index.html": "/lukasz300/frendbook/index.html",
+    "precache-manifest.1fdd7d1b305206ad7e6eaa8bc62e3895.js": "/lukasz300/frendbook/precache-manifest.1fdd7d1b305206ad7e6eaa8bc62e3895.js",
+    "service-worker.js": "/lukasz300/frendbook/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/lukasz300/frendbook/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.2ea8c94a.chunk.css.map": "/lukasz300/frendbook/static/css/main.2ea8c94a.chunk.css.map",
+    "static/js/2.71cfac2e.chunk.js.LICENSE.txt": "/lukasz300/frendbook/static/js/2.71cfac2e.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/lukasz300/frendbook/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3077aabf.js",
+    "static/js/runtime-main.01013fd3.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.71cfac2e.chunk.js",
-    "static/css/main.ab39b8a5.chunk.css",
-    "static/js/main.740107f8.chunk.js"
+    "static/css/main.2ea8c94a.chunk.css",
+    "static/js/main.ba45808d.chunk.js"
   ]
 }
